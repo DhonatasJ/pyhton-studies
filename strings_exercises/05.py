@@ -4,8 +4,8 @@ def change(name):
     x = []
     for i in name:
         x.append(i)
+    for i in enumerate (name):
+        print("".join(x))
         x.pop()
-        z = "".join(x)
-        print(z)
-    return name
+    return x
 print(change(name))
