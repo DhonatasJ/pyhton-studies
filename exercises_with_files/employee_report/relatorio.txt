@@ -1,0 +1,9 @@
+ACME Inc.               Uso do espaço em disco pelos usuários
+------------------------------------------------------------------
+Nr.  Usuário         Espaço utilizado     % de uso
+1    Erwerwewr          0.23 MB           0.09 %
+2    Ererwer            23.43MB           9.08 %
+3    Erwerwrweerw       234.24MB           90.83%
+
+Espaço total ocupado: 257.90MB
+Espaço médio ocupado: 85.97
